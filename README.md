@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00ffc4&amp;background=0d1117&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hi+there,+I%27m+Aryan+Singh+✨;Creative+Frontend+Developer;AI+Agent+Engineer+%26+Tinkerer;Vibe+Coder+%2B+Math+Enthusiast" alt="Typing SVG" />
-</p>
-
 ### ─── 🔮 SYSTEM CONTEXT ───
 
 ```yaml
