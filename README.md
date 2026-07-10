@@ -1,29 +1,87 @@
+<table>
+<tr>
+<td valign="top" width="55%">
+
+# Hi, I'm [Your Name] 👋
+
+**[Your Title / Tagline]** — e.g. Software Engineer building things on the web.
+
+- 🔭 I'm currently working on **[project name]**
+- 🌱 I'm currently learning **[skill/tech]**
+- 👯 I'm looking to collaborate on **[type of project]**
+- 💬 Ask me about **[topics]**
+- 📫 Reach me at **[email/contact]**
+- ⚡ Fun fact: **[something fun]**
+
+### 🛠️ Tech Stack
+`Python` · `JavaScript` · `React` · `Node.js` · `Docker`
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+
+</td>
+<td valign="top" width="45%" align="right">
+
+<sub><sub><sub>
+
 ```
-                                                                                                                   
-                                                                                                                   
-                                                                                                                   
-                                                                                                                   
-                                                ..",;:I>_<I;:;I<<l!                                                
-                                         ^>(]11??_<l,..  ". `.`^.;_)ji                                             
-                                      "<u0\+-?}-I;^`    `      ` `i"I/px?/UI;;`                                    
-                                 "Il-{\\vv({_i,                       i-}tt/XdY                                    
-                                `f/Ii-" "l<^     `.,i[\nXZdkahbdZn_,`    l--nUl                                    
-                              irvuf(+       ^<\UwdoW8%BB@@@B@B@@@@B#U+      Ix#                                    
-                              ;>I>(_^  .>)vO*%@@@@@@@@@@@@@@@@@@@@@@@*)     `fh                                    
-                               ","!^;IxWB@@@@@@%WadhbaMWMdJvnrrvzzXCwwJ:"   .p:                                    
-                               ``    `1bZYXz/1-+!:;;,^^lI"`:,` ^+}([{xf:,.  n_                                     
-                                 `   `|nQ<J->_]+;`  ^?;0&ot[!,^``."_1cpjz  )u>                                     
-                                 `.; ^_o&*zZaOnjruYZkUL@@@@kUOd#MMMMadLBB-.j)\[                                    
-                                 `j/UrfB@@@Mo*##*ohmkWoZOQCUvCUYLpaaWM&&%Q[[ZO!                                    
-                                  ~zJ_]CB@BB888M*o#8%J-"`""^:+Jh#ah0Zpka#Zda&x                                     
-                                   ipCQp&BB8Maba*qCu([[??1(}[-+I"<1XLmdo#0jr[                                      
-                                    "Uw0Y8BW#hwp\:i1nQOZ0LCYXYZ0Jr)uOQOwc}                                         
-                                         )kqqOJpoO0ahqz(iI<_+|zwhZYrzt_;,`                                         
-                                          Iv+!?/t1}uCQzj_~<!;!;:i>^` ^-c                                           
-                                         `iX%Z|;.               `;l>{UkMI.                                         
-                                       :\z~BB%Mdc\/|}<!,.  `^I+1cOZOqk#Mwlil.                                      
-                                  .-jCqb0?;B$%#qYYUwkZf]_<i~})(xQpdbddLf@Z ^~+~l;"`                                
-                          `!~?1/f0ZQwmw0r<`u$$$$8qUncCJn\}__{fz0qq0Yn[?M$@I .";!:I~iII!:!:;^                       
-                   `!+}|jYLJvt1jLnfcC0Y}<>!^C$$$$$$@oQr1(|))|jnxrj|?!fB$$$] .^",:!;;I!"^"":i__+~>l!,               
-             ^i](rcYurxnr/{~>~-]~il~}{><{}<,.Q#o#MWWW**X|?-?{1(/\(~<Lvf%$@C `^;;",!,``",","^^^^""":I~<<>lI,        
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+                                                                                               .";l+?1_-<ll:!^..                                                                                             
+                                                                                    `^,,":!i><l><lllI:I^..``::l~{()1?[{l`                                                                                    
+                                                                           `,~}/1?+?llI<<<~>i;^`    `.",. ``^,^ `"  "!!}Yn[                                                                                  
+                                                                        ")1/cc}.?\ft(1[{?i;,.". ^^``.   .``  ``.^^: `+}l")XL/,                                                                               
+                                                                      :}0af/-<-]_~~|1[<:I;,.                     `   ^~<`l!<pBh\.;_tJu                                                                       
+                                                                `"I)/ucLwXY\(\\{}()>,   .                            .   "  I0*hZJYmdbYnzCuX                                                                 
+                                                            >-l[+v]][1xccCYn][_->l,                                            ,]11j[-{?zQMB,                                                                
+                                                           -c>!,!}x\<I.!>+){-!`                 ``.";>[(\trunuxt\\|-!`           `+|YnvIxh0t^                                                                
+                                                          ;/UJ<~!""    `.``.           `.^:l>]tz0ph#W8%BBBBB@BB@@BW8#Zf~!"           !,_YOf?`                                                                
+                                                       :)/cj//|-l.         `   ` `,>[fzULmkoM8%BBB@@@@@@@@@@@@@@@@@@@@%Mbc|!`          `<|c&Q                                                                
+                                                      {0JYzUYu/vj1           `">|YqM%%B@%BBB%B%BBBBBBBBBB%BBBBB@@@@@@@@@@&pJ~           ;[Y&C                                                                
+                                                      I_]l~>}vu["        ^i1xCbM%B@@@@@@B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Md1          `i/Wc                                                                
+                                                      ^   `"^I;  `  ^_rCb&B@@@@B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Bh!          vkp(                                                                
+                                                       ,;^!";!^^I<_<YWBB@@@@@@@@@@@@@@BB%WM8M&&&8%88&MaqUzfx\{{))|frrxnvJZkoobr:"^       pO                                                                  
+                                                        "!`       .<(w8%B@@@@BokpwJrn/}_<>:><;;I+{\jf1i..^"l!;;;IIii<-[[{)/j|l`":<:     ;%_                                                                  
+                                                        ` `.        ?pmCzr1}/)?~I>i><:;"";",,::,` ,"""". "!      ,?|\ft}--}|vq] _ ,`   :a[                                                                   
+                                                          `         )J?{[`,Cj]~><1rnj{>^      `;, ~LppL\ {l           `,!",i\mziQl    `Z|                                                                    
+                                                           ,   .   +()d@@J~wfl;I_l..    `.  .,1n?iM@$@@@p1)[]+>l!!!:!!<}xUZhWW+0@#;  `vYnj1                                                                 
+                                                            ^ ; `  .`vb*#*Q}mka*Oj?~i><+[)fz0b&m~p@$@@@@@8X(w#oo#*MWW&88%88MQ(q@@@j  "+|><jn                                                                 
+                                                             l/x1i:<{8@@@@@&zJ*@@@@@@@@BBB@@@hLtk@@@@@@@@@@MQvXZkadhakhhhbqq#BBB@@&< <CaC[0L                                                                 
+                                                            {v-}tXYr-&@@@@@@@@oqqdbdbkbpdppm0oBB@%*oahpmmwOUZoozxY0qo#W&M&WW&W&&8%Br[I>}dYa~                                                                 
+                                                            ^n_?*oCx]nW@@@@@@B@@B@BB%8Moahqmb8pz1>,^,;:!Ii:,~~nhohpZZqqmqbkkk**#oW8xYZuC*8(                                                                   
+                                                             "zcm[; _vxB@@@B%BB8M%&&Wo*##W%@@@%wn-!.  ^!`   ,l[Cp&%&M&*wJLqdpbao*WoXhkW&%%<                                                                  
+                                                              .v#z]I~zOoB@B%BB&8Wo*hhM88%%%MoZUjJf|]_?{/)?>+_~-}?>~1jXqaoLCmddqk#WWYdWWMw_                                                                   
+                                                                t8M8%Mo8WB@B88W*ahdwkMdQX((-iiI:,:l~?[[}))){[_iI,,`  `"I\QQ0mpaoM#kr+lI.                                                                     
+                                                                 ~&@@@B&#8@B8WMWhkZmdL-^   .:~/XLZda#M&&&WMoahW8#ZUu1+>-t000ZwZkdwc[                                                                         
+                                                                  ._{}~!<h&B8&*a*kpwdqY(}(vZkkdpOUvt1?+<<ilii~]|nXQZQXcLOmZLJQUYt__!                                                                         
+                                                                         idab#obmOC0phopOLqkokw0v(_l    .^.`;?\zwdaaq0Jvn0Yc|?>,.,^                                                                          
+                                                                          "Q0j\|rzXUqk#p0LOp#W&%&MoqXnxnUUuunUzvcLCqmz(>!+ll:.`:`.                                                                           
+                                                                            [U(, .![((f)[<{fY0QOUn/}!lI::;.` .```..,:``     `ica;                                                                            
+                                                                             uBbj>.       ^^,^""`.``                     `"?nm*%?                                                                            
+                                                                          ,[>C@B&aO/I;``                           ^!>_-?/uQqk#%zI:                                                                          
+                                                                        ~cC>t@@@@%MaqUf1?_<>,."``             `"i-tzOCJUYZmwk*#88j;?+,                                                                       
+                                                                     I)UkC+`d$@%&8WMamCcvzCLCQu|}_iI:"..`.^;<[1|/jnJmqpwdddh*W&#m$j .?{+!                                                                    
+                                                                !}nZbhbpO\; L$$$$MopqwLCXX0qbkpLu)?-_~~<i~_{(){})jYZqddbpbkhakQ-b$$| `^I[1[+>.                                                               
+                                                            ;]cwhohpddpOc{; _@$$$$$$*0vrvcYOOwbwUj|}?+<lll<_](\rcCOZpkbkdqmQc(!Y@$$*   .":I>+{-_+~<>::`                                                      
+                                                  `;i-{(xvzhaqLLwwZmZwOX\-;  U$$$$$$$$$&mc/|uU0QLYuf/)[?++-[)\rcUZqbbw0LUvx)~,v@$$$$-  `.^,,:!!;,!il::<~+i<>lI"                                              
+                                           ;~{/nz0pmm0JujfmpUucXOLOqmCu(}+!. `O$$$$$$$$$$$$*Qj)|rcYYzvr\||/trvUQ0LLJXznt|{~:!q@$$$$$)   `.^",;!;;,",!i!^.^",;:>_?[}}{)_<i`                                   
+                                    ,<}(rcUJJCUCCJvf1?+?vbCn(trvYLQLz/-iiI>II."Q$$$$$$$$$$$$$$BdX}_?]{1){{1))\fffftff\([~!^}&@$$$$$$X   ^,""^,;;l!:;,;!<i:...^"""",",;i<_}|}[-~>,                            
+                              ;-(jzLLUzczcXzUcuj)-~ll><1)+~_[](juXv(>,!<{/|_!,`^Q$$$$$$$$$$$$$$&da~i<~+__-?[[}{1)(|\/)]>;"zBWM@$$$$$#,  `^"::;,,":l!!"^`..^"^^^","^^^^"^"",;;:!l+{]??_+I`                    
+                       `I_|jXLQUXcnxjt\ffjf\1}?~>i><_[[}]?_l^`^";i-++-?{[?+>!:``iqkbwdkaho*o*okb&%8wz|[]?][{(((/\ttt([>!}qa1^`xB$$$@B+  `.^,,:,,",;I^.``.",;;;,""^"^^^^^^^^"^^",",;;:Il>[]]+_i:              
 ```
+
+</sub></sub></sub>
+
+</td>
+</tr>
+</table>
