@@ -1,4 +1,4 @@
-<sub><sub><sub><sub><sub>
+
 ```
                                                                                                                    
                                                                                                                    
@@ -31,6 +31,4 @@
                                            _%MQ.x%p)i||L&*c !XxY\|{~mWWWW8&MMO/)1qW&d^  `II1()}<` .`.`nMqwJxq    ;>
                                            vWbr)-q!^/:ZZam%*#*p"fXQwu/Uk#M&aL/tUZk{_!`   ?]qc.  `` lrcJcdMJv~`"`  ,
 ```
-</sub></sub></sub></sub></sub>
-</tr>
-</table>
+
